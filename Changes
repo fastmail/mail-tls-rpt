@@ -1,4 +1,6 @@
 {{$NEXT}}
+
+2.20261112 2026-11-12 Australia/Melbourne
   - Policy: Add policy_mode, the mode of an sts policy, and show a null
     policy-string line as empty rather than warning
   - Report, Policy: as_struct and as_json name failure-details as RFC 8460
